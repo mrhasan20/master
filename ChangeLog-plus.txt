@@ -1,33 +1,19 @@
-{"version_code":452560,"content":"
-<p>تحديث 3.00</p>
+{"version_code":452561,"content":"
+<p>تحديث 3.06</p>
 
-<li> نسخة لتشغيل رقم ثاني اصبحت متاحة</li>
-<li> اضافة خيار لاصلاح الفراغ الموجود اعلى الشاشة عند تغير الواجهة</li>
-<li>امكانية تغير شكل الحالة /الستوري الى 3 اشكال </li>
-<li>تحسينات على قائمة الخيارات</li>
-<li>تحسينات على واجهة اعدادات اكستريم</li>
-<li>تحسينات على واجهة الخصوصية</li>
-<li>اصلاح خيار اخفاء الحالات الحديثة في شاشة اعادة التوجيه</li>
-<li>اصلاح خيار اظهار الاسم والحالة في الشريط العلوي للتطبيق</li>
-<li>تحسينات على ميزة تعدد الدردشات</li>
-<li>اصلاح مشكلة الانهيار عند فتح البرنامج في انظمة (4.4.4 - 4.4.2 - 4.3 - 4.2.2 - 4.1.2  - 4.0.4 ) </li>
-<li>اصلاح مشاكل التعليق</li>
-<li>اصلاحات اخرى.</li>
-
-<li>New Package Added</li>
-<li>Added Option to Fix Old UI space bug </li>
-<li>Ability to change Status Style Row (3 Styles)</li>
-<li>Improved MenuItem Ui</li>
-<li>Improved Privacy Settings</li>
-<li>Improved Extreme Settings Ui</li>
-<li>Fixed Hide Frequently contacted in Forward section</li>
-<li>Fixed Show My Name in ActionBar</li>
-<li>Improved MultiTask</li>
-<li>Fixed a crash problem when you open the program on (4.4.4  - 4.3 - 4.2.2 - 4.1.2 - 4.0.4)</li>
-<li>Fix lag issue..</li>
-<li>Other Fixes...</li>
+*يمكنك اضافة ملصقات للواتساب من تطبيقات الماركت
+*إضافة خطوط جديدة
+*إضافة ايقونات جديدة
+*إضافة الخيار 6.21 لتعطيل فتح المحادثات المخفية بعد الضغط على كلمة WhatsApp
+*يمكنك ترتيب عرض الرسائل حسب الاقدم او الاحد بعد عرض الرسائل المرسلة من قبل اي شخص في المجموعة 
+*يمكنك تثبيت ٣٠ محادثة بدلا من ٢٥ محادثة
+*إضافة نافذة تأكيد عند الاتصال بشخص ما من داخل المجموعة
+*اصلاح الايقاف الاجباري عندي اختيار اكثر من شخص في قائمة الرد التلقائي و الرسائل المجدولة
+*اصلاح خيار تغيير اللغة في اصدار اوريو واعلى
+*اصلاح ظهور نافذة عرض الرسائل المرسلة بعد الضغط على عرض المزيد في معلومات المجموعة
+*إصلاحات اخرى
 
 
 
-","url":"https://www.sirimods.com/search/label/SiWhatsApp"
+","url":"https://www.sirimods.com/2019/01/siwhatsapp-v300.html"
 }
