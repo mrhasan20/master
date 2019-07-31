@@ -1,5 +1,5 @@
-{"version_code":452561,"content":"
-<p>تحديث 3.06</p>
+{"version_code":452648,"content":"
+<p>تحديث 1.0</p>
 
 *يمكنك اضافة ملصقات للواتساب من تطبيقات الماركت
 *إضافة خطوط جديدة
@@ -15,5 +15,5 @@
 
 
 
-","url":"https://www.sirimods.com/2019/01/siwhatsapp-v300.html"
+","url":"https://www.sirimods.com/2019/08/siwhatsapp.html"
 }
