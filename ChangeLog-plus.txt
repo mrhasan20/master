@@ -1,1 +1,31 @@
-{'ver1':'7', 'ver2':'80', 'ver3':'\n[Base Update] 2.18.65\n[SUPER-EXCLUSIVE] Set Image as background for Home screen! (Option 1.1.2)\n[Exclusive] Choose to place picture next to All/First/Last bubble (Option 3.4.6)\n[Exclusive] My picture in conversation outside/inside (Options 3.4.1)\n[Exclusive] My picture in groups outside/inside (Option 3.4.3)\n[Added] Call Blocker/Who can call me option (Calls tab > Menu)\n[Added] White Navigation bar support for Android 8.0+\n[Added] Azerbaijani langauge (Option 1.3.0)\n[Added] 7 new icons (Option 1.3.3)\n[New] YoThemes Store design (YoMods > YoMods > Download themes)\n[New] Save themes now automatically also creates theme zip file!\n[Updated] Brazilian Portuguese (pt-br) translation \n[Fixed] Duplicate New Call FAB\n[Fixed] Particaipant nickname not getting coloured in group\n[Fixed] Messages text size for Arabic langauge\n[Fixed] Trick to bypass WhatsApp lock from YoWidget\n[Fixed] Color options not showing on Android 8+\n[Fixed] YoWidget not showing properly for Arabic language phones (RTL)\n[Fixed] White Statusbar causes viewing Images to be cropped at bottom\n[Fixed] WhatsApp big size on some phones\n[Fixed] Load theme does not apply wallpaper\n[Fixed] Bugs with many Entry styles\n[Fixed] Switching GIF provider (Tenor/Giphy)\n[Improved] FAB now moves to left in RTL langauges\n[Improved] Overall speed\n', 'dli':'https://www.sirimods.com/'}
+{"version_code":452892,"content":"
+<p> تحديث|Update 1.0</p>
+
+<li> التحديث لنسخة الماركت 2.19.216</li>
+<li> ضد الحظر ان شاء الله</li>
+<li> اضافة خيار لاخفاء الخط الرمادي في قسم الحالة</li>
+<li> إمكانية معرفة الشخص الذي قام بمشاهدة حالتك (الستوري)  </li>
+<li> اضافة امكانية إعادة الارسال بدون ظهور رسالة مُحولة </li>
+<li> اضافة امكانية تحميل الصورة الشخصية لاي شخص كان</li>
+<li> تفعيل كافة الميزات التجريبية لشركة الواتساب</li>
+<li> تحسين خيار الوضع المظلم للاعدادات</li>
+<li> إصلاح  ظهور الإشعارات المنبثقة في اصدار اوريو و الفطيرة</li>
+<li> إصلاح مشكلة التعليق في التطبيق</li>
+<li> والمزيد...</li>
+
+
+
+<li>New Base Updated to 2.19.216 (Playstore) </li>
+<li>Anti-Ban </li>
+<li>Added option to Disable "Forward" tag  </li>
+<li>Added show Toast When Anyone Views your Status/Story</li>
+<li>Added Ability to download profile image</li>
+<li>Added option to Hide grey line between Status in Story Screen</li>
+<li>Improved option Dark Theme for ALL Settings</li>
+<li>Enabled All hidden features..</li>
+<li>Fixed Disable Heads-up for Oreo & Pie Users</li>
+<li>Fixed lag issue</li>
+
+
+","url":"https://www.sirimods.com/2019/01/siwhatsapp.html"
+}
