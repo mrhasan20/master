@@ -1,6 +1,6 @@
-{"version_code":830,"content":"
+{"version_code":200,"content":"
 
-<p>GBWhatsApp Pro v8.30</p>
+<p>SiWhatsapp Pro v2.0</p>
 
 <li> Update The Base To 2.19.258</li>
 <li> Support More Avndroid Devices And CPU ABIs Library (armeabi-v7a // arm64-v8a // x86)</li>
