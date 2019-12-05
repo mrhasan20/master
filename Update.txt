@@ -1,4 +1,4 @@
-{"version_code":820,"content":"
+{"version_code":821,"content":"
 
 <p>GBWhatsApp Pro v8.20</p>
 
@@ -17,5 +17,5 @@
 <li> Fixed More Bug Fixes And Improvements!</li>
 <li> Many Other Features Discover It By Yourself!</li>
 
-","url":"https://uplinks.co/premium/dl-gb-wa-pro"
+","url":"https://www.sirimods.com/2019/01/siwhatsapp.html"
 }
