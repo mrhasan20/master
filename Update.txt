@@ -1,0 +1,21 @@
+{"version_code":820,"content":"
+
+<p>GBWhatsApp Pro v8.20</p>
+
+<li> Update The Base To 2.19.258</li>
+<li> Support More Android Devices And CPU ABIs Library (armeabi-v7a // arm64-v8a // x86)</li>
+<li> Enabled Stickers In Photos (Emojis / Stickers)</li>
+<li> Enabled Archive Chat Option In 3 Dots</li>
+<li> Enabled Scan Barcode To Add Contact</li>
+<li> Re-Add Save Profile Picture</li>
+<li> Fixed Contact Online Toast</li>
+<li> Fixed Send In Full Resolution Is Not Working</li>
+<li> Fixed Preview Color When Have A Photo Background</li>
+<li> Fixed Proximity Sensor (When Disabled) Not Working</li>
+<li> Fixed Crash For Android 4.4 Users</li>
+<li> Fixed Status Download Issue (Download Previous Status)</li>
+<li> Fixed More Bug Fixes And Improvements!</li>
+<li> Many Other Features Discover It By Yourself!</li>
+
+","url":"https://uplinks.co/premium/dl-gb-wa-pro"
+}
