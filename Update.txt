@@ -1,9 +1,9 @@
-{"version_code":821,"content":"
+{"version_code":830,"content":"
 
-<p>GBWhatsApp Pro v8.20</p>
+<p>GBWhatsApp Pro v8.30</p>
 
 <li> Update The Base To 2.19.258</li>
-<li> Support More Android Devices And CPU ABIs Library (armeabi-v7a // arm64-v8a // x86)</li>
+<li> Support More Avndroid Devices And CPU ABIs Library (armeabi-v7a // arm64-v8a // x86)</li>
 <li> Enabled Stickers In Photos (Emojis / Stickers)</li>
 <li> Enabled Archive Chat Option In 3 Dots</li>
 <li> Enabled Scan Barcode To Add Contact</li>
