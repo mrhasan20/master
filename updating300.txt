@@ -1,9 +1,8 @@
-{"version_code":830,"content":"
+{"version_code":400,"content":"
 
 <p>SIWhatsApp Pro v4.0</p>
 
 <li>حسوووووووون</li>
-
 <li> Added Attention Note When You Press On DND Mode (Airplane) Icon</li>
 <li> Added Attention Note When You Press On DND Mode (Airplane) Icon</li>
 <li> Added Attention Note When You Press On DND Mode (Airplane) Icon</li>
