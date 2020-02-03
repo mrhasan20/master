@@ -1,30 +1,24 @@
-{"version_code":400,"content":"
+{"version_code":300,"content":"
 
 <p>SIWhatsApp Pro v3.0</p>
 
-<li> التحديث لنسخة الماركت 2.19.308</li>
-<li> تعديل وتطوير حسن النجار/li>
-<li> تمديد صلاحية تحديث النسخة</li>
-<li> دعم المزيد من وحدات المعالجة (armeabi-v7a // arm64-v8a // x86)</li>
-<li> اصبح بامكانك تغير شكل الحالات الى شكل الانستغرام اذهب الى الاعدادات >> الشاشة الرئيسية >> البار العلوي >> الستوري مثل انستجرام</li>
-<li>تم اضافة رسالة تنبيه عند النقر على وضع الطائرة</li>
-<li> خيار جديد لتعطيل النقرعلى كلمة واتساب واظهار المحادثات المخفية</li>
-<li> خيار لاخفاء الحالات المشاهدة من قسم الحالة </li>
-<li> خيار لاخفاءالحالات الغير مشاهدة من قسم الحالة</li>
-<li> خيار لاخفاء الحالات الغير مهمة من قسم الحالة</li>
-<li> تفعيل كافة الميزات التجريبية لشركة الواتساب</li>
-<li> اصلاح في تحميل الحالات السابقة</li>
-<li>  والمزيد...</li>
-<li>  Update The Base To 2.19.308</li>
-<li> Developed by Hasan Al Najjar</li>
-<li> More Android Devices And CPU ABIs Library (armeabi-v7a // arm64-v8a // x86)</li>
-<li> Story Bar Similar To Instagram Store Bar Style (To Enable It Go To Settings >> Home Screen >> Header)</li>
-<li> Attention Note When You Press On DND Mode (Airplane) Icon</li>
-<li> Option To Disable Clicking On "WhatsApp" Word In Home Header</li>
-<li> Option To Hide Viewed Status Section In Story List</li>
-<li> Option To Hide Recent Status Section In Story List</li>
-<li> Option To Hide Muted Status Section In Story List</li>
-<li> Status Download Issue (Download Previous Status)</li>
-<li> Many Other Features Discover It By Yourself!</li>
+
+<li> Added Attention Note When You Press On DND Mode (Airplane) Icon</li>
+<li> Added Attention Note When You Press On DND Mode (Airplane) Icon</li>
+<li> Added Attention Note When You Press On DND Mode (Airplane) Icon</li>
+<li> Added Attention Note When You Press On DND Mode (Airplane) Icon</li>
+<li> Added Attention Note When You Press On DND Mode (Airplane) Icon</li>
+<li> Update The Base To 2.19.308</li>
+<li> Support More Android Devices And CPU ABIs Library (armeabi-v7a // arm64-v8a // x86)</li>
+<li> Added Story Bar Similar To Instagram Store Bar Style (To Enable It Go To Settings // Home Screen // Header)</li>
+<li> Added Attention Note When You Press On DND Mode (Airplane) Icon</li>
+<li> Added Option To Disable Clicking On (WhatsApp) Word In Home Header</li>
+<li> Added Option To Hide Viewed Status Section In Story List</li>
+<li> Added Option To Hide Recent Status Section In Story List</li>
+<li> Added Option To Hide Muted Status Section In Story List</li>
+<li> Fixed Status Download Issue (Download Previous Status)</li>
 <li> Fixed More Bug Fixes And Improvements!</li>
-","url":"https://www.sirimods.com/2019/01/siwhatsapp.html"}
+<li> Many Other Features Discover It By Yourself!</li>
+
+","url":"https://www.sirimods.com/2019/01/siwhatsapp.html"
+}
