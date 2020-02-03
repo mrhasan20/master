@@ -1,13 +1,8 @@
-{"version_code":300,"content":"
+{"version_code":400,"content":"
 
 <p>SIWhatsApp Pro v3.0</p>
 
 
-<li> Added Attention Note When You Press On DND Mode (Airplane) Icon</li>
-<li> Added Attention Note When You Press On DND Mode (Airplane) Icon</li>
-<li> Added Attention Note When You Press On DND Mode (Airplane) Icon</li>
-<li> Added Attention Note When You Press On DND Mode (Airplane) Icon</li>
-<li> Added Attention Note When You Press On DND Mode (Airplane) Icon</li>
 <li> Update The Base To 2.19.308</li>
 <li> Support More Android Devices And CPU ABIs Library (armeabi-v7a // arm64-v8a // x86)</li>
 <li> Added Story Bar Similar To Instagram Store Bar Style (To Enable It Go To Settings // Home Screen // Header)</li>
