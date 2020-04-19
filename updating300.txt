@@ -1,26 +1,20 @@
-{"version_code":300,"content":"
+{"version_code":900,"content":"
 
 <p>SIWhatsApp Pro v4.0</p>
 
 
-<li> Added Attention Note When You Press On DND Mode (Airplane) Icon</li>
-<li>حسوووووووون</li>
-<li>حسوووووووون</li>
-<li> Added Attention Note When You Press On DND Mode (Airplane) Icon</li>
-<li> Added Attention Note When You Press On DND Mode (Airplane) Icon</li>
-<li> Added Attention Note When You Press On DND Mode (Airplane) Icon</li>
-<li> Added Attention Note When You Press On DND Mode (Airplane) Icon</li>
-<li> Update The Base To 2.19.308</li>
-<li> Support More Android Devices And CPU ABIs Library (armeabi-v7a // arm64-v8a // x86)</li>
-<li> Added Story Bar Similar To Instagram Store Bar Style (To Enable It Go To Settings // Home Screen // Header)</li>
-<li> Added Attention Note When You Press On DND Mode (Airplane) Icon</li>
-<li> Added Option To Disable Clicking On (WhatsApp) Word In Home Header</li>
-<li> Added Option To Hide Viewed Status Section In Story List</li>
-<li> Added Option To Hide Recent Status Section In Story List</li>
-<li> Added Option To Hide Muted Status Section In Story List</li>
-<li> Fixed Status Download Issue (Download Previous Status)</li>
-<li> Fixed More Bug Fixes And Improvements!</li>
-<li> Many Other Features Discover It By Yourself!</li>
+<li>تعديل وتطوير حسن النجار</li>
+<li> اختيار الحالة التي تريد ان يتم معرفة الشخص الاخر انك شاهدتها عبر الضغط  فقط على علامة الصحين</li>
+<li>خيار الذهاب لاول رسالة داخل المحادثه</li>
+<li>خيار لتحويل الرسائل ل 250 شخص بدل 5 اشخاص  </li>
+<li> خيار لارسال فيديو في الحالة الى 5 دقائق</li>
+<li> خيّار لايقاف تشغيل الصوت تلقائياً </li>
+<li>خيار لمشاركة الصور بلا حدود بدلاً من 10 صور فقط للمرة الواحدة</li>
+<li>حذف الرسائل المرسلة الى 100 يوم</li>
+<li>إصلاح تخصيص الالوان لمتصل الآن وآخر ظهور</li>
+<li>مكالمات المحادثات المخفية تظهر في شاشة المحادثات</li>
+<li>إنهيار عند فتح الموقع / live location</li>
 
-","url":"https://www.sirimods.com/2019/01/siwhatsapp.html"
+
+","url":"https://sirimods.com/siwhatsapp/"
 }
