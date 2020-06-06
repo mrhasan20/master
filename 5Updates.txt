@@ -1,1 +1,19 @@
-{'ver1':'9', 'ver2':'35', 'ver3':'\nAdded: Separatgyujghje Group Tab for Bottom Bar\nAdded: Group chats now have separate tab (Optional)\nAdded: Dubai (Arabic) Font\nFixed "App Not Installed" error\nFixed Fingerprint timeout randomly switches to "Immediately"\nFixed: Swipe between screens when Swipe Row is enabled\nImproved: Switch Light/Dark Mode will SAVE your current settings and restore it when switching\nFixed: Swipe between screens when Swipe Row is enabled\nImproved: Switch Light/Dark Mode will SAVE your current settings and restore it when switching\nImproved: Fonts preview\nFixed: Hide Second Tick\nFixed: IG Status disappearing\nFixed: WhatsApp emojis/stickers show in phone gallery\nFixed: Bottom bar not working in Urdu language\nFixed: Group description not clear in Dark Mode\nFixed: Custom Privacy checkbox not showing in RTL languages\nMisc: Improved (Arabic, Urdu, German, Turkish, Spanish, Russian) Translations\nNote: Returned default UI to Tabs\nKnown bug: Unread counter flicker when group tab enabled\n[Misc]More bug fixes and improvements!\n' , 'dli':'https://sirimods.com/siri-downloading-page/', 'exp831':'47'}
+{"version_code":900,"content":"
+
+<p>GBWhatsApp Pro v8.40</p>
+
+<li> Update The Base To 2.20.47</li>
+<li> Support More Android Devices And CPU ABIs Library (armeabi-v7a // arm64-v8a // x86)</li>
+<li> Improved lock UI (Pattern - PIN) And General Improvements</li>
+<li> Fixed Crush In The Chat Screen On Some Devices</li>
+<li> Fixed Option (Open WhatsApp.log)</li>
+<li> Fixed Option (Change WA Language)</li>
+<li> Fixed Option (Check For Update)</li>
+<li> Fixed Option (Change the Notifications Icon)</li>
+<li> Fixed Text Status Not Showing Font Style</li>
+<li> Fixed Status Download Issue (Download Previous Status)</li>
+<li> Fixed More Bug Fixes And Improvements!</li>
+<li> Many Other Features Discover It By Yourself!</li>
+
+","url":"https://uplinks.co/premium/dl-gb-wa-pro"
+}
