@@ -1,19 +1,18 @@
-{"version_code":500,"content":"
+{"version_code":600,"content":"
 
-<p>GBWhatsApp Pro v8.40</p>
+<p>SiWhatsApp V6.0</p>
 
-<li> Update The Base To 2.20.47</li>
-<li> Support More Android Devices And CPU ABIs Library (armeabi-v7a // arm64-v8a // x86)</li>
-<li> Improved lock UI (Pattern - PIN) And General Improvements</li>
-<li> Fixed Crush In The Chat Screen On Some Devices</li>
-<li> Fixed Option (Open WhatsApp.log)</li>
-<li> Fixed Option (Change WA Language)</li>
-<li> Fixed Option (Check For Update)</li>
-<li> Fixed Option (Change the Notifications Icon)</li>
-<li> Fixed Text Status Not Showing Font Style</li>
-<li> Fixed Status Download Issue (Download Previous Status)</li>
-<li> Fixed More Bug Fixes And Improvements!</li>
-<li> Many Other Features Discover It By Yourself!</li>
+<li>تحديث الى القاعدة 2.20.157</li>
+<li> تم تفعيل تبويبة المجموعات افتراضياً </li>
+<li> اضافة بعض الخطوط</li>
+<li> تم ارجاع واجهة التطبيق الى الواجهة الافتراضية اثناء التثبيت</li>
+<li> تفعيل خيار زيادة مدة الحالة تلقائياً اثناء تثبيت التطبيق</li>
+<li> شكل جديد لزر تحميل الحالة</li>
+<li> حل مشكلة عداد الثواني في الفيديوهات)</li>
+<li> اصلاح جميع مشاكل الحالة</li>
+<li> حل مشكلة عد حذف وصف المجموعة في الوضع الليلي</li>
+<li> حل مشكلة هذا التطبيق غير مثبت على بعض الاجهزة</li>
+<li> وإصلاح مشاكل اخرى</li>
 
 ","url":"https://t.co/Os3P8SlkPw"
 }
