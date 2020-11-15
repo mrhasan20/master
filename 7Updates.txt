@@ -1,1 +1,25 @@
-ws
+{"version_code":875,"content":"
+
+<p>GBWhatsApp Pro v8.75</p>
+
+<li> Update The Base To 2.20.157</li>
+<li> Fixed Hide View Status Feature Not Working</li>
+<li> Added Group Chats Tab Enabled By Default</li>
+<li> Added Bottom Bar Home Screen Style</li>
+<li> Added Light And Dark Mode Will Save Your Themes Settings Profile</li>
+<li> Added Fonts Preview (Now You Can Preview Fonts Before Applying It)</li>
+<li> Added Returned Default UI Tabs Design After Installations</li>
+<li> Improved Arabic-Urdu-German-Turkish-Spanish-Russian Translations</li>
+<li> Fixed IG Status disappearing</li>
+<li> Fixed Bottom Bar Not Working In Urdu Language</li>
+<li> Fixed Group Description Not Clear In Dark Mode</li>
+<li> Fixed App Not Installed Error On Some Devices</li>
+<li> Fixed WhatsApp Emojis - Stickers Show In Phone Gallery</li>
+<li> Fixed Swipe Between Screens When Swipe Row Is Enabled</li>
+<li> Fixed Custom Privacy Checkbox Not Showing In RTL Languages</li>
+<li> Fixed Fingerprint Timeout Randomly Switches To (Immediately)</li>
+<li> More Bug Fixes And Improvements!</li>
+<li> Many Other Features Discover It By Yourself!</li>
+
+","url":"https://uplinks.co/premium/dl-gb-wa-pro"
+}
