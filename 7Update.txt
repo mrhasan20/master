@@ -1,1 +1,1 @@
-ws
+{'ver1':'8', 'ver2':'75', 'ver3':'\n[Important Update] Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n', 'dli':'https://uplinks.co/premium/dl-gb-wa-pro'}
