@@ -1,4 +1,4 @@
-{"version_code":1300,"content":"
+{"version_code":1200,"content":"
 
 <p>GBWhatsApp Pro v12.00</p>
 
