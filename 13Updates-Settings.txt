@@ -1,18 +1,1 @@
-{"version_code":900,"content":"
-
-<p>SiWhatsApp V6.0</p>
-
-<li>تحديث الى القاعدة 2.20.157</li>
-<li> تم تفعيل تبويبة المجموعات افتراضياً </li>
-<li> اضافة بعض الخطوط</li>
-<li> تم ارجاع واجهة التطبيق الى الواجهة الافتراضية اثناء التثبيت</li>
-<li> تفعيل خيار زيادة مدة الحالة تلقائياً اثناء تثبيت التطبيق</li>
-<li> شكل جديد لزر تحميل الحالة</li>
-<li> حل مشكلة عداد الثواني في الفيديوهات)</li>
-<li> اصلاح جميع مشاكل الحالة</li>
-<li> حل مشكلة عد حذف وصف المجموعة في الوضع الليلي</li>
-<li> حل مشكلة هذا التطبيق غير مثبت على بعض الاجهزة</li>
-<li> وإصلاح مشاكل اخرى</li>
-
-","url":"https://t.co/Os3P8SlkPw"
-}
+{'ver1':'16', 'ver2':'20', 'ver3':'\n[Important Update] Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n', 'dli':'https://uplinks.co/premium/dl-gb-wa-pro'}
