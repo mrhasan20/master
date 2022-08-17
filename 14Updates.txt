@@ -1,6 +1,6 @@
-{"version_code":1300,"content":"
+{"version_code":1400,"content":"
 
-<p>GBWhatsApp Pro v16.20</p>
+<p>siWhatsApp Pro v16.20</p>
 
 <li> Update The Base To 2.22.2.73</li>
 <li> Fixed Crush In The Chat Screen On Some Devices</li>
