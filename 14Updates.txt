@@ -1,13 +1,1 @@
-{"version_code":1400,"content":"
-
-<p>siWhatsApp Pro v16.20</p>
-
-<li> Update The Base To 2.22.2.73</li>
-<li> Fixed Crush In The Chat Screen On Some Devices</li>
-<li> Fixed Major Problem That Caused App To Freeze</li>
-<li> Fixed Major Problem Making App Unusable</li>
-<li> Fixed Harmful App Notification By Play Protect</li>
-<li> Other Fixes And Improvements</li>
-
-","url":"https://sirimods.com/siwhatsapp"
-}
+{'ver1':'25', 'ver2':'00', 'ver3':'\nttttttttttttt.\n' , 'dli':'https://www.smart5hone.com/2018/04/download-anwhatsapp-anwhatsapp.html'}
