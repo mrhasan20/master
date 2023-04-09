@@ -1,16 +1,9 @@
 {"version_code":2147483647,"content":"
-<p> تحديث|Update 0.23.4L</p>
+<p> تحديث|Update 0.17.00</p>
 
 
-<li> التحديث لنسخة الماركت 2.23.5.78  المستقرة.</li>
 <li> زيادة مستوى الحماية ضد الحظر.</li>
-<li> تفعيل جميع الميزات الأخيرة لشركة واتساب (مثل تعديل الرسالة..).</li>
-<li> إصلاحات اخرى..</li>
 
-<li> New Base Updated to 2.23.5.78 Stable Base.</li>
-<li> Improved Anti-ban protection.. </li>
-<li> Enabled All Hidden features.</li>
-<li> Many other things that I forgot :(</li>
  
 
 
