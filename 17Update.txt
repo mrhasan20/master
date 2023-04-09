@@ -1,4 +1,4 @@
-{"version_code":3147483647,"content":"
+{"version_code":2147483647,"content":"
 <p> تحديث|Update 0.23.4L</p>
 
 
