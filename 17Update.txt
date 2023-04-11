@@ -1,11 +1,11 @@
-{"version_code":211817031,"content":"
+{"version_code":,"content":"
 <p> تحديث|Update 0.17.00</p>
 
 
 <li> زيادة مستوى الحماية ضد الحظر.</li>
 
  
-
+Test
 
 ","url":"https://www.ayyta.com/siwhatsapp-v14/"
 }
