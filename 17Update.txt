@@ -1,4 +1,4 @@
-{"version_code":2.23.5.79,"content":"
+{"version_code":2137483646,"content":"
 <p> تحديث|Update 0.18.00</p>
 
 <li> زيادة مستوى الحماية ضد الحظر.</li>
